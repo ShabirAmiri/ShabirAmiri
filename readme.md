@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shabir Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
-- 🔭 I’m currently Trainign with[HBC](https://hbcxconsulting.com/)
+- 🔭 I’m currently Trainign with [HBC](https://hbcxconsulting.com/)
 
 - 🌱 I’m currently learning **AI and Data Science along with working on React**
 
