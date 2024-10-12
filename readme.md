@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shabir Ahmad</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
-- 🔭 I’m currently working on [Bookzone](https://shabiramiri.github.io/bookzone_cw/)
+- 🔭 I’m currently Trainign with HBC [HBC](https://hbcxconsulting.com/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **AI and Data Science along with working on React**
 
 - 👨‍💻 All of my projects are available at [https://shabiramiri.github.io/Portfolio-website/](https://shabiramiri.github.io/Portfolio-website/)
 
-- 💬 Ask me about **PHP,JavaScript,laravel**
+- 💬 Ask me about **Web Development and AI**
 
-- 📫 How to reach me **shabirahmadamiri00@gmail.com**
+- 📫 How to reach me **shabir.code@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
